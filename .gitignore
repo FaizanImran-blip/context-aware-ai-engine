@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env 
+venv/
+.env/
+
+# Mac system files
+.DS_Store
+
+# Large data files 
+data.json
+data_set.txt
+
+# Model files 
+*.gguf
+*.bin
+*.pt
+
+# Logs
+*.log
