@@ -1,5 +1,5 @@
 # 🧠 Semantic RAG Agent
--
+
 A context-aware Retrieval-Augmented Generation (RAG) system powered by local LLMs and semantic search.
 
 ---
