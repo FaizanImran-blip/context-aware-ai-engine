@@ -1,6 +1,5 @@
 A context-aware Retrieval-Augmented Generation (RAG) system powered by local LLMs and semantic search.
-
-
+-
 ## 🚀 Overview
 
 This project implements a lightweight yet powerful RAG pipeline that enhances LLM responses using relevant contextual data.
